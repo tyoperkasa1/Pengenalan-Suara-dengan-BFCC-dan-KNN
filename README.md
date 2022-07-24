@@ -1,2 +1,2 @@
 # Pengenalan-Suara-dengan-BFCC-dan-KNN
-Metode ekstraksi fitur suara dan Klasifikasi KNN dengan python3
+Dilakukan pengenalan suara batuk metode ekstraksi fitur suara BFCC dan Klasifikasi KNN dengan python3
